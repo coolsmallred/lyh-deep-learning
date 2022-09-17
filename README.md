@@ -1,2 +1,2 @@
 # lyh-deep-learning
-study
+study for deep-learning
